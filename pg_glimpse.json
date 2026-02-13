@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/dlt/pg_glimpse/releases/download/v$version/pg_glimpse-v$version-x86_64-pc-windows-msvc.zip",
-            "hash": "TODO_REPLACE_WITH_SHA256"
+            "hash": "4b57760206fe44c51a91fbe305d006b030c78c2e4e09450397a1623a9499e071"
         }
     },
     "bin": "pg_glimpse.exe",
