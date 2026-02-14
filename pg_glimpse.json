@@ -1,12 +1,12 @@
 {
-    "version": "0.5.3-rc1",
+    "version": "0.5.5",
     "description": "Terminal-based PostgreSQL monitoring tool with live TUI",
     "homepage": "https://github.com/dlt/pg_glimpse",
     "license": "MIT",
     "architecture": {
         "64bit": {
             "url": "https://github.com/dlt/pg_glimpse/releases/download/v$version/pg_glimpse-v$version-x86_64-pc-windows-msvc.zip",
-            "hash": "4b57760206fe44c51a91fbe305d006b030c78c2e4e09450397a1623a9499e071"
+            "hash": "c2bbc767052d66f8e10a3fd60f8c6be6bd1de6be6b827341bd2675924ef86eed"
         }
     },
     "bin": "pg_glimpse.exe",
